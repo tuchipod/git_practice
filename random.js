@@ -19,3 +19,4 @@ console.log(`${firstPart[firstNum]} ${secondPart[secondNum]} ${thirdPart[thirdNu
 
 // aqui se agregaran nuevas modificaciones
 // nuevas modificaciones
+let newVar = 'hola mundo';
