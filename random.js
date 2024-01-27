@@ -18,6 +18,7 @@ for (let i = 0; i < messageArr.length; i++) {
     }
 
     let messRand = randomMess(mess); 
+
     message.push(messageObj[mess][messRand]);
 }
 
